@@ -97,7 +97,7 @@ h6 {
 }
 
 a {
-	color: #333;
+	color: #0f0f0f;
 }
 
 p {
@@ -1417,6 +1417,11 @@ footer {
 	text-align: center;
 	padding: 15px 0;
 	display: block;
+	color: #fff;
+}
+
+footer a {
+	color: #fff;
 }
 
 footer h6 {
@@ -1497,7 +1502,6 @@ footer .ft-bottom {
 
     
    
-    
     
     
 
