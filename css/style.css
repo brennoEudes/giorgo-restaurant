@@ -575,14 +575,14 @@ p {
 }
 
 .menu-grid .entry .product-details {
-	margin: 10px 0px;
+	margin: 10px 5px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
 
 .menu-grid .entry .product-details a{
-	font-size: 25px;
+	font-size: 18px;
 }
 
 .menu-grid .entry .button {
