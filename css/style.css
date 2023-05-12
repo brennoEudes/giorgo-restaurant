@@ -51,8 +51,8 @@ Author URL : https://themeforest.net/user/rabonadev
 body {
 	margin: 0;
 	padding: 0;
-	background: #fff;
-	color: #888;
+	background-color: aliceblue;
+	background-image: linear-gradient(315deg, #caf0cf 0%, #f5f7f7 100%);
 	font-family: 'Muli', sans-serif;
 }
 
