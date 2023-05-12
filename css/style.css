@@ -124,15 +124,15 @@ p {
 .navbar {
 	width: 100%;
 	height: 60px;
-	padding: 15px 0;
+	padding: 15px;
 	z-index: 9;
-	background: #222;
+	background: #0c7922 linear-gradient(315deg, #106a1f 0%, #26bb3d 100%);
+
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	text-align: center;
-	border-bottom: 2px solid #232323;
 }
 
 .site-title {
