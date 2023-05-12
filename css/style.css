@@ -52,7 +52,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: aliceblue;
-	background-image: linear-gradient(315deg, #caf0cf 0%, #f5f7f7 100%);
+	background-image: linear-gradient(315deg, #e1f0e3 0%, #f5f7f7 100%);
 	font-family: 'Muli', sans-serif;
 }
 
@@ -127,7 +127,6 @@ p {
 	padding: 15px;
 	z-index: 9;
 	background: #0c7922 linear-gradient(315deg, #106a1f 0%, #26bb3d 100%);
-
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -435,7 +434,7 @@ p {
 .offers .entry i {
 	width: 80px;
 	height: 80px;
-	background: #e0b531;
+	background: #313ae0;
 	color: #fff;
 	border-radius: 50%;
 	font-size: 35px;
@@ -1404,9 +1403,9 @@ border-bottom: 2px solid #e0b531;
 	footer
 ===================*/
 footer {
-	background: #111;
+	background: #0c7922;
 	text-align: center;
-	padding: 40px 0;
+	padding: 15px 0;
 	display: block;
 }
 
@@ -1483,11 +1482,6 @@ footer .ft-bottom {
 
 :not(:defined) > * {
   display: none;
-}
-
-
-
-
 }
 
 
