@@ -581,6 +581,10 @@ p {
 	align-items: center;
 }
 
+.menu-grid .entry .product-details a{
+	font-size: 20px;
+}
+
 .menu-grid .entry .button {
 	margin-top: 10px;
 	margin-bottom: 5px;
@@ -771,7 +775,7 @@ p {
 }
 
 .pages-title h3 {
-	font-size: 28px;
+	font-size: 30px;
 }
 
 .app-bg-dark {
