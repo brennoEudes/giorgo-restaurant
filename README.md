@@ -14,4 +14,5 @@ The technologies used were:
 
 ## Layout
 Get your cellphone or tablet and check the [menu here](https://brennoeudes.github.io/giorgo-restaurant/). 
+<br>
 ps: The AR objects only work on mobile devices.
