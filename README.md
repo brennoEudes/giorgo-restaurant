@@ -3,7 +3,7 @@
 </p>
 
 ## The Project 
-This is a web-responsive project created for Giorgios Italian Restaurant. The goal was to develop a menu in which the guests could see all sorts of meals in images and Augmented Reality (AR) objects.
+This is a web-responsive project created for Giorgio's Italian Restaurant. The goal was to develop a menu in which the guests could see all sorts of meals in images and Augmented Reality (AR) objects.
 
 ## Technologies
 The technologies used were:
