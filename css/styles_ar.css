@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   width: 100vw;
-  height: 80vh;
+  height: 100vh;
 }
 
 .btn{
@@ -44,7 +44,7 @@ body {
 
 model-viewer {
   width: 100%;
-  height: 90%;
+  height: 60%;
   background-color: #ffffff;
 }
 
