@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="" width=100%/>
+<img src=".github/preview.png" alt="" width=100%/>
 </p>
 
 ## The Project 
